@@ -1,6 +1,5 @@
 [class 12th chap 1-10.html]
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
